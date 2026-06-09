@@ -1,1 +1,1 @@
-60hz Oled
+painel LCD IPS de 15,6 polegadas com resolução Full HD (1920x1080 pixels) com 60 hz
